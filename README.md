@@ -10,5 +10,5 @@ A front-end Amazon homepage clone built using HTML and CSS.
 ### Navbar
 ![Navbar](screen_shots/navbar_temp.png)
 
-###### footer
-![footer](screen_shots/footer_temp.png)
+### Footer
+![Footer](screen_shots/footer_temp.png)
